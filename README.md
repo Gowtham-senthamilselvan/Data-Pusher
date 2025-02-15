@@ -56,10 +56,6 @@ Each account has:
     ```bash
     python manage.py makemigrations
     python manage.py migrate
-4. Run migrations:
-    ```bash
-    python manage.py makemigrations
-    python manage.py migrate
 5. Start the development server:
     ```bash
     python manage.py runserver
